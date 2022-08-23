@@ -1,2 +1,3 @@
-# js-example
-Javascript Example
+# Javascript Example
+
+Example of javascript to work
